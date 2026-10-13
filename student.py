@@ -10,7 +10,7 @@ class Student:
     def menu(self):
         while True :
             choice = int(input("""
-            Enter your choice btw 1-5 :
+            Enter your choice btw 1-6 :
             1. Add Student 
             2. View Students 
             3. Search Student 
